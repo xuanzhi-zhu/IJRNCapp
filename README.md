@@ -1,13 +1,9 @@
 # IJRNCapp
 
-MATLAB code for Numerical Simulations Section
+MATLAB code for Simulation Results Section
 
-main_ETC1.m ========> code for the Subsection 5.1 using 
+sec5_1/initializtion.m ========> code for the Subsection 5.1
 
-main_ETC2.m ========> code for the Subsection 5.2 using 
+sec5_2/initializtion.m ========> code for the Subsection 5.2
 
-main_ETC3.m ========> code for the Subsection 5.3.1 using 
-
-main_ETC4.m ========> code for the Subsection 5.3.2 using 
-
-main_nominal.m ========> code for simulating the synergistic controller without event-triggered control
+appH/initializtion.m ========> code for Appendix H
