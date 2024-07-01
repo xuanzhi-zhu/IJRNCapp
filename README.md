@@ -1,4 +1,4 @@
-# IJRNCapp
+# IjrncApp
 
 MATLAB code for Simulation Results Section
 
